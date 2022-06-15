@@ -1,0 +1,456 @@
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mickey Mouse             Payment           Checking          $2243.55          -$100.00          $2143.55          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Donald Duck              Payment           Checking          $216.10           +$100.00          $316.10           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mickey Mouse             Balance Inquiry   Savings           $191.96           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mickey Mouse             Withdrawal        Checking          $2143.55          -$100.00          $2043.55          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mickey Mouse             Deposit           Savings           $191.96           +$500.00          $691.96           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mickey Mouse             Transfer          Savings           $691.96           -$300.00          $391.96           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mickey Mouse             Transfer          Credit            $-1833.88         +$300.00          $-1533.88         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Bryan Acosta             Deposit           Checking          $274.88           +$5000.00         $5274.88          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alfredo Arce             Deposit           Checking          $1801.38          +$5000.00         $6801.38          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cezar Barba              Deposit           Checking          $1919.93          +$5000.00         $6919.93          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alejandro Blanco         Deposit           Checking          $1243.35          +$5000.00         $6243.35          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Brandon Bustamante       Deposit           Checking          $1562.52          +$5000.00         $6562.52          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Abel Carrasco            Deposit           Checking          $556.05           +$5000.00         $5556.05          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Axel Diaz                Deposit           Checking          $358.56           +$5000.00         $5358.56          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alan Licerio             Deposit           Checking          $413.43           +$5000.00         $5413.43          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Lorenzo Martinez         Deposit           Checking          $1935.10          +$5000.00         $6935.10          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ricardo Mendez           Deposit           Checking          $17.66            +$5000.00         $5017.66          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Eyan Meraz               Deposit           Checking          $633.39           +$5000.00         $5633.39          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alonso Monarrez          Deposit           Checking          $1526.77          +$5000.00         $6526.77          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+David Morales            Deposit           Checking          $1671.42          +$5000.00         $6671.42          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Osvaldo Nevarez          Deposit           Checking          $218.39           +$5000.00         $5218.39          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cesar Padron             Deposit           Checking          $1658.87          +$5000.00         $6658.87          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alejandro Ramirez        Deposit           Checking          $1515.13          +$5000.00         $6515.13          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Luis Renteria            Deposit           Checking          $618.12           +$5000.00         $5618.12          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Hector Reyes             Deposit           Checking          $1479.22          +$5000.00         $6479.22          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Elizabeth Reyes Jimenez  Deposit           Checking          $1511.45          +$5000.00         $6511.45          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Elias Roybal             Deposit           Checking          $864.85           +$5000.00         $5864.85          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ruth Trejo               Deposit           Checking          $175.56           +$5000.00         $5175.56          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Jeffrey Vanarsdall       Deposit           Checking          $755.28           +$5000.00         $5755.28          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+German Viezcas           Deposit           Checking          $1872.62          +$5000.00         $6872.62          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Bryan Acosta             Payment           Checking          $5274.88          -$1000.00         $4274.88          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $616.58           +$1000.00         $1616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alfredo Arce             Payment           Checking          $6801.38          -$1000.00         $5801.38          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $1616.58          +$1000.00         $2616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cezar Barba              Payment           Checking          $6919.93          -$1000.00         $5919.93          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $2616.58          +$1000.00         $3616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alejandro Blanco         Payment           Checking          $6243.35          -$1000.00         $5243.35          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $3616.58          +$1000.00         $4616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Brandon Bustamante       Payment           Checking          $6562.52          -$1000.00         $5562.52          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $4616.58          +$1000.00         $5616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Abel Carrasco            Payment           Checking          $5556.05          -$1000.00         $4556.05          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $5616.58          +$1000.00         $6616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Axel Diaz                Payment           Checking          $5358.56          -$1000.00         $4358.56          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $6616.58          +$1000.00         $7616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alan Licerio             Payment           Checking          $5413.43          -$1000.00         $4413.43          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $7616.58          +$1000.00         $8616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Lorenzo Martinez         Payment           Checking          $6935.10          -$1000.00         $5935.10          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $8616.58          +$1000.00         $9616.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ricardo Mendez           Payment           Checking          $5017.66          -$1000.00         $4017.66          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $9616.58          +$1000.00         $10616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Eyan Meraz               Payment           Checking          $5633.39          -$1000.00         $4633.39          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $10616.58         +$1000.00         $11616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alonso Monarrez          Payment           Checking          $6526.77          -$1000.00         $5526.77          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $11616.58         +$1000.00         $12616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+David Morales            Payment           Checking          $6671.42          -$1000.00         $5671.42          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $12616.58         +$1000.00         $13616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Osvaldo Nevarez          Payment           Checking          $5218.39          -$1000.00         $4218.39          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $13616.58         +$1000.00         $14616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cesar Padron             Payment           Checking          $6658.87          -$1000.00         $5658.87          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $14616.58         +$1000.00         $15616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alejandro Ramirez        Payment           Checking          $6515.13          -$1000.00         $5515.13          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $15616.58         +$1000.00         $16616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Luis Renteria            Payment           Checking          $5618.12          -$1000.00         $4618.12          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $16616.58         +$1000.00         $17616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Hector Reyes             Payment           Checking          $6479.22          -$1000.00         $5479.22          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $17616.58         +$1000.00         $18616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Elizabeth Reyes Jimenez  Payment           Checking          $6511.45          -$1000.00         $5511.45          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $18616.58         +$1000.00         $19616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Elias Roybal             Payment           Checking          $5864.85          -$1000.00         $4864.85          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $19616.58         +$1000.00         $20616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ruth Trejo               Payment           Checking          $5175.56          -$1000.00         $4175.56          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $20616.58         +$1000.00         $21616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Jeffrey Vanarsdall       Payment           Checking          $5755.28          -$1000.00         $4755.28          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $21616.58         +$1000.00         $22616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+German Viezcas           Payment           Checking          $6872.62          -$1000.00         $5872.62          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $22616.58         +$1000.00         $23616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Balance Inquiry   Checking          $23616.58         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mickey Mouse             Withdrawal        Savings           $391.96           -$100.00          $291.96           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Donald Duck              Payment           Checking          $316.10           -$48.46           $267.64           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Bryan Acosta             Payment           Checking          $4274.88          +$48.46           $4323.34          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Minnie Mouse             Withdrawal        Savings           $3640.50          -$79.00           $3561.50          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Goofy Disney             Payment           Checking          $269.29           -$15.63           $253.66           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alfredo Arce             Payment           Checking          $5801.38          +$15.63           $5817.01          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Pluto Disney             Withdrawal        Savings           $2652.08          -$77.00           $2575.08          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Chip Disney              Payment           Checking          $471.00           -$50.99           $420.01           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cezar Barba              Payment           Checking          $5919.93          +$50.99           $5970.92          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Dale Disney              Withdrawal        Savings           $2220.87          -$54.00           $2166.87          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cinderella Disney        Payment           Checking          $1511.87          -$28.81           $1483.06          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alejandro Blanco         Payment           Checking          $5243.35          +$28.81           $5272.16          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ariel Disney             Withdrawal        Savings           $2452.58          -$57.00           $2395.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Jasmine Disney           Payment           Checking          $1661.70          -$28.89           $1632.81          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Brandon Bustamante       Payment           Checking          $5562.52          +$28.89           $5591.41          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Aladdin Disney           Withdrawal        Savings           $2133.01          -$94.00           $2039.01          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Simba Disney             Payment           Checking          $448.71           -$39.29           $409.42           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Abel Carrasco            Payment           Checking          $4556.05          +$39.29           $4595.34          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mufassa Disney           Withdrawal        Savings           $1144.45          -$67.00           $1077.45          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Aurora Disney            Payment           Checking          $217.65           -$34.47           $183.18           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Axel Diaz                Payment           Checking          $4358.56          +$34.47           $4393.03          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Peter Pan                Withdrawal        Savings           $2763.26          -$100.00          $2663.26          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Woody Disney             Payment           Checking          $1181.48          -$34.04           $1147.44          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alan Licerio             Payment           Checking          $4413.43          +$34.04           $4447.47          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Buzz Lightyear           Withdrawal        Savings           $487.27           -$90.00           $397.27           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Jafar Aladdin            Payment           Checking          $1811.01          -$12.36           $1798.65          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Lorenzo Martinez         Payment           Checking          $5935.10          +$12.36           $5947.46          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ursela Mermaid           Withdrawal        Savings           $1543.14          -$56.00           $1487.14          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Beast Disney             Payment           Checking          $1138.74          -$26.84           $1111.90          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ricardo Mendez           Payment           Checking          $4017.66          +$26.84           $4044.50          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Belle Disney             Withdrawal        Savings           $1361.39          -$88.00           $1273.39          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cruella De Vil           Payment           Checking          $175.69           -$34.70           $140.99           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Eyan Meraz               Payment           Checking          $4633.39          +$34.70           $4668.09          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Scar Lion                Withdrawal        Savings           $979.02           -$65.00           $914.02           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Simba King               Payment           Checking          $1133.22          -$11.31           $1121.91          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alonso Monarrez          Payment           Checking          $5526.77          +$11.31           $5538.08          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Gaston Disney            Withdrawal        Savings           $195.88           -$78.00           $117.88           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Shere Khan               Payment           Checking          $1158.11          -$41.20           $1116.91          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+David Morales            Payment           Checking          $5671.42          +$41.20           $5712.62          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Kaa Disney               Payment           Checking          $1128.38          -$11.83           $1116.55          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Osvaldo Nevarez          Payment           Checking          $4218.39          +$11.83           $4230.22          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Evil Queen               Withdrawal        Savings           $2594.68          -$86.00           $2508.68          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Pinocchio Disney         Payment           Checking          $861.22           -$34.11           $827.11           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cesar Padron             Payment           Checking          $5658.87          +$34.11           $5692.98          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Prince Eric              Withdrawal        Savings           $1540.55          -$57.00           $1483.55          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Quasimodo Disney         Payment           Checking          $111.41           -$25.58           $85.83            
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Alejandro Ramirez        Payment           Checking          $5515.13          +$25.58           $5540.71          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Hercules Disney          Withdrawal        Savings           $3573.70          -$85.00           $3488.70          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mulan Disney             Payment           Checking          $150.10           -$36.48           $113.62           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Hector Reyes             Payment           Checking          $5479.22          +$36.48           $5515.70          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Lilo Disney              Withdrawal        Savings           $4893.41          -$59.00           $4834.41          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Stitch Disney            Payment           Checking          $1778.19          -$29.25           $1748.94          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Elizabeth Reyes Jimenez  Payment           Checking          $5511.45          +$29.25           $5540.70          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Gaston Disney            Withdrawal        Savings           $117.88           -$74.00           $43.88            
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mickey Mouse             Payment           Checking          $2043.55          -$17.97           $2025.58          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Elias Roybal             Payment           Checking          $4864.85          +$17.97           $4882.82          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Donald Duck              Withdrawal        Savings           $2334.79          -$91.00           $2243.79          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Minnie Mouse             Payment           Checking          $966.83           -$29.50           $937.33           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ruth Trejo               Payment           Checking          $4175.56          +$29.50           $4205.06          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Goofy Disney             Withdrawal        Savings           $3653.91          -$81.00           $3572.91          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Chip Disney              Withdrawal        Savings           $4169.71          -$75.00           $4094.71          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Dale Disney              Payment           Checking          $1994.49          -$50.39           $1944.10          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Jeffrey Vanarsdall       Payment           Checking          $4755.28          +$50.39           $4805.67          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Cinderella Disney        Withdrawal        Savings           $1689.16          -$79.00           $1610.16          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Ariel Disney             Payment           Checking          $798.34           -$46.88           $751.46           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+German Viezcas           Payment           Checking          $5872.62          +$46.88           $5919.50          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Jasmine Disney           Withdrawal        Savings           $213.41           -$59.00           $154.41           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Aladdin Disney           Payment           Checking          $916.14           -$25.16           $890.98           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $23616.58         +$25.16           $23641.74         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Simba Disney             Withdrawal        Savings           $2466.54          -$100.00          $2366.54          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Mufassa Disney           Payment           Checking          $594.29           -$33.54           $560.75           
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Daniel Mejia             Payment           Checking          $23641.74         +$33.54           $23675.28         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Clark Kent               Balance Inquiry   Credit            $-1000.00         
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Clark Kent               Deposit           Checking          $2000.00          +$50.00           $2050.00          
+
+Name                     Action            Account           Start Balance     Action Amount     End Balance       
+Clark Kent               Withdrawal        Savings           $5000.00          -$69.95           $4930.05          
+

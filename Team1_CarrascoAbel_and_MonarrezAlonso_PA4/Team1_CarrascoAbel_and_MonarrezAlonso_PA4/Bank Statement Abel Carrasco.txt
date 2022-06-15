@@ -1,0 +1,54 @@
+Name: Abel Carrasco
+Date of birth: "December 12, 1994"
+Address: "524 W. University Ave, El Paso, TX 79968"
+Phone number: (915) 747-5024
+Email: AbelCarrasco@disney.com
+Bank identification number: 84
+
+Date of transactions: Sun Jul 26 13:50:55 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 1042
+----------------------------------------------------------------------------------------
+Starting balance: $556.05
+Action            Account           Start Balance     Action Amount     End Balance       
+Deposit           Checking          $556.05           +$5000.00         $5556.05          
+Payment           Checking          $5556.05          -$1000.00         $4556.05          
+Payment           Checking          $4556.05          +$39.29           $4595.34          
+Ending balance: $4595.34
+----------------------------------------------------------------------------------------
+
+Name: Abel Carrasco
+Date of birth: "December 12, 1994"
+Address: "524 W. University Ave, El Paso, TX 79968"
+Phone number: (915) 747-5024
+Email: AbelCarrasco@disney.com
+Bank identification number: 84
+
+Date of transactions: Sun Jul 26 13:50:55 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 2042
+----------------------------------------------------------------------------------------
+Starting balance: $721.24
+No transactions have been made at this time!
+Ending balance: $721.24
+----------------------------------------------------------------------------------------
+
+Name: Abel Carrasco
+Date of birth: "December 12, 1994"
+Address: "524 W. University Ave, El Paso, TX 79968"
+Phone number: (915) 747-5024
+Email: AbelCarrasco@disney.com
+Bank identification number: 84
+
+Date of transactions: Sun Jul 26 13:50:55 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 3042
+----------------------------------------------------------------------------------------
+Starting balance: $-1129.04
+No transactions have been made at this time!
+Ending balance: $-1129.04
+----------------------------------------------------------------------------------------
+

@@ -1,0 +1,53 @@
+Name: Goofy Disney
+Date of birth: "May 6, 1957"
+Address: "1313 Disneyland Dr, Anaheim, CA 92802"
+Phone number: (714) 781-4636
+Email: GoofyDisney@disney.com
+Bank identification number: 4
+
+Date of transactions: Sun Jul 26 13:51:05 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 1003
+----------------------------------------------------------------------------------------
+Starting balance: $269.29
+Action            Account           Start Balance     Action Amount     End Balance       
+Payment           Checking          $269.29           -$15.63           $253.66           
+Ending balance: $253.66
+----------------------------------------------------------------------------------------
+
+Name: Goofy Disney
+Date of birth: "May 6, 1957"
+Address: "1313 Disneyland Dr, Anaheim, CA 92802"
+Phone number: (714) 781-4636
+Email: GoofyDisney@disney.com
+Bank identification number: 4
+
+Date of transactions: Sun Jul 26 13:51:05 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 2003
+----------------------------------------------------------------------------------------
+Starting balance: $3653.91
+Action            Account           Start Balance     Action Amount     End Balance       
+Withdrawal        Savings           $3653.91          -$81.00           $3572.91          
+Ending balance: $3572.91
+----------------------------------------------------------------------------------------
+
+Name: Goofy Disney
+Date of birth: "May 6, 1957"
+Address: "1313 Disneyland Dr, Anaheim, CA 92802"
+Phone number: (714) 781-4636
+Email: GoofyDisney@disney.com
+Bank identification number: 4
+
+Date of transactions: Sun Jul 26 13:51:05 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 3003
+----------------------------------------------------------------------------------------
+Starting balance: $-268.49
+No transactions have been made at this time!
+Ending balance: $-268.49
+----------------------------------------------------------------------------------------
+

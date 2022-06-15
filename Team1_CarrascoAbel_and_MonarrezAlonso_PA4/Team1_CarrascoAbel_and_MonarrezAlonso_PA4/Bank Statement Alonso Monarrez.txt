@@ -1,0 +1,54 @@
+Name: Alonso Monarrez
+Date of birth: "April 13, 1997"
+Address: "530 W. University Ave, El Paso, TX 79968"
+Phone number: (915) 747-5030
+Email: AlonsoMonarrez@disney.com
+Bank identification number: 90
+
+Date of transactions: Sun Jul 26 13:50:45 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 1048
+----------------------------------------------------------------------------------------
+Starting balance: $1526.77
+Action            Account           Start Balance     Action Amount     End Balance       
+Deposit           Checking          $1526.77          +$5000.00         $6526.77          
+Payment           Checking          $6526.77          -$1000.00         $5526.77          
+Payment           Checking          $5526.77          +$11.31           $5538.08          
+Ending balance: $5538.08
+----------------------------------------------------------------------------------------
+
+Name: Alonso Monarrez
+Date of birth: "April 13, 1997"
+Address: "530 W. University Ave, El Paso, TX 79968"
+Phone number: (915) 747-5030
+Email: AlonsoMonarrez@disney.com
+Bank identification number: 90
+
+Date of transactions: Sun Jul 26 13:50:45 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 2048
+----------------------------------------------------------------------------------------
+Starting balance: $486.87
+No transactions have been made at this time!
+Ending balance: $486.87
+----------------------------------------------------------------------------------------
+
+Name: Alonso Monarrez
+Date of birth: "April 13, 1997"
+Address: "530 W. University Ave, El Paso, TX 79968"
+Phone number: (915) 747-5030
+Email: AlonsoMonarrez@disney.com
+Bank identification number: 90
+
+Date of transactions: Sun Jul 26 13:50:45 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 3048
+----------------------------------------------------------------------------------------
+Starting balance: $-579.97
+No transactions have been made at this time!
+Ending balance: $-579.97
+----------------------------------------------------------------------------------------
+

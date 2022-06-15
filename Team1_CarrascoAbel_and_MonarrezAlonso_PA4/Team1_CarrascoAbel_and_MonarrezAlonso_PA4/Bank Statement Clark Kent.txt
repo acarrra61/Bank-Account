@@ -1,0 +1,54 @@
+Name: Clark Kent
+Date of birth: "June 18, 1989"
+Address: "344 Clinton Street, Metropolis, NY 10001"
+Phone number: (718) 234-5690
+Email: ClarkKent@gmail.com
+Bank identification number: 102
+
+Date of transactions: Sun Jul 26 13:51:24 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 1103
+----------------------------------------------------------------------------------------
+Starting balance: $2000.00
+Action            Account           Start Balance     Action Amount     End Balance       
+Deposit           Checking          $2000.00          +$50.00           $2050.00          
+Ending balance: $2050.00
+----------------------------------------------------------------------------------------
+
+Name: Clark Kent
+Date of birth: "June 18, 1989"
+Address: "344 Clinton Street, Metropolis, NY 10001"
+Phone number: (718) 234-5690
+Email: ClarkKent@gmail.com
+Bank identification number: 102
+
+Date of transactions: Sun Jul 26 13:51:24 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 2103
+----------------------------------------------------------------------------------------
+Starting balance: $5000.00
+Action            Account           Start Balance     Action Amount     End Balance       
+Withdrawal        Savings           $5000.00          -$69.95           $4930.05          
+Ending balance: $4930.05
+----------------------------------------------------------------------------------------
+
+Name: Clark Kent
+Date of birth: "June 18, 1989"
+Address: "344 Clinton Street, Metropolis, NY 10001"
+Phone number: (718) 234-5690
+Email: ClarkKent@gmail.com
+Bank identification number: 102
+
+Date of transactions: Sun Jul 26 13:51:24 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 3103
+----------------------------------------------------------------------------------------
+Starting balance: $-1000.00
+Action            Account           Start Balance     Action Amount     End Balance       
+Balance Inquiry   Credit            $-1000.00         
+Ending balance: $-1000.00
+----------------------------------------------------------------------------------------
+

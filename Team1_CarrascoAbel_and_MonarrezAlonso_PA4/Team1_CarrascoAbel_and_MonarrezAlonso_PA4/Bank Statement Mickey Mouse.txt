@@ -1,0 +1,59 @@
+Name: Mickey Mouse
+Date of birth: "July 11, 2009"
+Address: "1313 Disneyland Dr, Anaheim, CA 92802"
+Phone number: (714) 781-4636
+Email: MickeyMouse@disney.com
+Bank identification number: 1
+
+Date of transactions: Sun Jul 26 13:51:14 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 1000
+----------------------------------------------------------------------------------------
+Starting balance: $2243.55
+Action            Account           Start Balance     Action Amount     End Balance       
+Payment           Checking          $2243.55          -$100.00          $2143.55          
+Withdrawal        Checking          $2143.55          -$100.00          $2043.55          
+Payment           Checking          $2043.55          -$17.97           $2025.58          
+Ending balance: $2025.58
+----------------------------------------------------------------------------------------
+
+Name: Mickey Mouse
+Date of birth: "July 11, 2009"
+Address: "1313 Disneyland Dr, Anaheim, CA 92802"
+Phone number: (714) 781-4636
+Email: MickeyMouse@disney.com
+Bank identification number: 1
+
+Date of transactions: Sun Jul 26 13:51:14 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 2000
+----------------------------------------------------------------------------------------
+Starting balance: $191.96
+Action            Account           Start Balance     Action Amount     End Balance       
+Balance Inquiry   Savings           $191.96           
+Deposit           Savings           $191.96           +$500.00          $691.96           
+Transfer          Savings           $691.96           -$300.00          $391.96           
+Withdrawal        Savings           $391.96           -$100.00          $291.96           
+Ending balance: $291.96
+----------------------------------------------------------------------------------------
+
+Name: Mickey Mouse
+Date of birth: "July 11, 2009"
+Address: "1313 Disneyland Dr, Anaheim, CA 92802"
+Phone number: (714) 781-4636
+Email: MickeyMouse@disney.com
+Bank identification number: 1
+
+Date of transactions: Sun Jul 26 13:51:14 MDT 2020
+
+----------------------------------------------------------------------------------------
+Account number: 3000
+----------------------------------------------------------------------------------------
+Starting balance: $-1833.88
+Action            Account           Start Balance     Action Amount     End Balance       
+Transfer          Credit            $-1833.88         +$300.00          $-1533.88         
+Ending balance: $-1533.88
+----------------------------------------------------------------------------------------
+
